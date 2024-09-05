@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nerko+One&size=30&pause=1000&color=F75858&width=435&lines=Hi%2CI'm+Yaroslava!)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playwrite+Cuba&size=30&pause=1000&color=A41F32&width=435&lines=I'm+computer+scientist+.)](https://git.io/typing-svg)  
 <div id="header" align="left">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzEzY2I3dTRremNvaHZldjF3cmFlbGthbWkxY2YybW1ucHF6bDJvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="150"/>
