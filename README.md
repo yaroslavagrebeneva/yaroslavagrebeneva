@@ -6,7 +6,7 @@
 </div>
 
 - 😘 Hi, I’m Yaroslava.
-- 👩‍💻 I'm a beginner programmer. Now I study at Crimean Enjeenering Pedagojical University. Also my friends and I created "OptimistTeam"😍 .
+- 👩‍💻 I'm a beginner programmer. Now I study at Crimean Enjeenering Pedagojical University.
 - 😎 I think that I can inspire people and make them happy with my work and smile.
 - 📫 How to reach me: https://vk.com/anarhisstttt 🌊
                        https://t.me/anarhisssttt   🧜‍♀️
