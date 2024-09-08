@@ -34,3 +34,4 @@ You can click the Preview link to take a look at your changes.
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?yaroslavagrebeneva=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
