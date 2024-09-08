@@ -31,6 +31,5 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaroslavagrebeneva&theme=ocean_dark)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/ocean_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
