@@ -32,5 +32,16 @@ You can click the Preview link to take a look at your changes.
   <img src="https://render.gitanimals.org/farms/{yaroslavagrebeneva}"/>
 </a>
 
+### 🎭: Languages and tools :
+<div>
+<img src= "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg"; title="html" alt ="html" width="40" height="40"/>&nbsp;
+<img src= "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg"; title="css" alt ="css" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg"; title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/photoshop/photoshop-original.svg"; title="photoshop" alt="photoshop" width="40" 
+height="40"/>&nbsp;
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"; title="python" alt="python" width="40" height="40"/>&nbsp;
+
+</div>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=yaroslavagrebeneva)](https://github.com/ryo-ma/github-profile-trophy) <div id="header1" align="right">
 
