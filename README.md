@@ -17,7 +17,7 @@
 <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDh2bGIwNDc3OG9qaDI5eTF2b3k5NGh0em5tczE0YzgzM2MwMDN2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NBumZynvxLP0Q66dOL/giphy.gif" width = "180" align="right"/>
   </div>
  
-- ___I learn HTML,Python,C++,JS.🖤.___
+- ___I'm a programer.___
 - Now I study at __Crimean Enjeenering Pedagojical University__.
 - I think that I can inspire people and make them happy with my work and smile.
 - ***How to reach me:***
