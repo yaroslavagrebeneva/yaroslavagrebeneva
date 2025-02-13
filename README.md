@@ -14,17 +14,15 @@ align="left"/>
 
  <div class = "a" align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&size=28&duration=4998&pause=1000&color=000000&width=436&lines=I+am+a+beginner+programmer." alt="Typing SVG" /></a>
+   <div id="header" align="left">
+  <img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU1OTE5cTRjM3pudTlqbDByZ3FldndiN3hkeWJjNjV3azIwN2k5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bYUbS6XYDi3Ze/giphy.gif" width="760"/>
+</div>
  </div>
  <div id="header" >
 <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGo0bnBtdTk4aGt1cXBmYWhmMHQ1ZGJibWtlNnNrajN0MmZmdTF2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y2RIuV8Al7KzLdBhBD/giphy.gif" width = "480" align="right"/>
   </div>
-  
-- ***How to reach me:***
-- https://vk.com/anarhisstttt
-- https://t.me/anarhisssttt  
- <div id="header" align="left">
-  <img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU1OTE5cTRjM3pudTlqbDByZ3FldndiN3hkeWJjNjV3azIwN2k5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bYUbS6XYDi3Ze/giphy.gif" width="760"/>
-</div>
+
+
 
 <div id="badges">
   <a href="https://vk.com/anarhisstttt">
@@ -34,6 +32,10 @@ align="left"/>
     <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=tg&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+  
+- ***How to reach me:***
+- https://vk.com/anarhisstttt
+- https://t.me/anarhisssttt  
 
 
 
