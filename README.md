@@ -9,7 +9,7 @@ align="left"/>
  </div>
 
  <div class = "a" align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&size=50&duration=4998&pause=1000&color=000000&width=536&height=70&lines=++++My+name+is+Yaroslava" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&size=50&duration=4998&pause=1000&color=000000&width=536&height=70&lines=++++My+name+is+Yasya" alt="Typing SVG" /></a>
  </div>
 
  <div class = "a" align="center">
