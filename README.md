@@ -13,7 +13,6 @@ align="left"/>
  </div>
 
  <div class = "a" align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&size=28&duration=4998&pause=1000&color=000000&width=436&lines=I+am+a+beginner+programmer." alt="Typing SVG" /></a>
    <div id="header" align="center">
   <img src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRudjc4MjBrYnU5bzJnMHJoYnpsNXY5MjEyZnhlNHdkcGwxcW9tbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DJh8vTppcwFVK/giphy.gif" width="790"/>
 </div>
